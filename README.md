@@ -18,6 +18,7 @@ The objective of the Hospital Emergency Room Dashboard is to analyze patient flo
 - How are **patients distributed across departments (referrals)**?
 - What are the **peak hours and days for patient visits**?
 
+  
 - Dashboard Interaction <a href="#">View Dashboard</a>
 
 ## 🔄 Process
