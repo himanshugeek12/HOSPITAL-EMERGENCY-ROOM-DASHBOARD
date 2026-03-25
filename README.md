@@ -19,7 +19,7 @@ The objective of the Hospital Emergency Room Dashboard is to analyze patient flo
 - What are the **peak hours and days for patient visits**?
 
   
-  -Dashboard Interaction <a href="#">View Dashboard</a>
+  -Dashboard Interaction <a href="https://github.com/himanshugeek12/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/master/Monthly%20view.png">View Dashboard</a>
 
 ## 🔄 Process
 - Extracted and validated hospital data using SQL queries.
@@ -40,9 +40,10 @@ The objective of the Hospital Emergency Room Dashboard is to analyze patient flo
 - Applied slicers for dynamic filtering (Month, Date Range).
 
 ## 📷 **Dashboard Preview:**  
-![Monthly View](your-monthly-image-link)  
-![Consolidated View](your-consolidated-image-link)
-
+![Monthly View](https://github.com/himanshugeek12/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/master/Monthly%20view.png)  
+![Consolidated View](https://github.com/himanshugeek12/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/master/consolidated%20view.png)
+![Patients Details](https://github.com/himanshugeek12/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/master/Patient%20Details.png)
+![Key takeaway View](https://github.com/himanshugeek12/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/master/Key%20takeaway.png)
 ## 🔍 Project Insights
 - **Total patients reached 9K+**, showing high hospital traffic in the emergency department.
 - **Average wait time is around 35 minutes**, indicating moderate patient handling efficiency.
